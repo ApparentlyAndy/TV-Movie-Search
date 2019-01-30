@@ -12,5 +12,8 @@ Link: https://www.themoviedb.org
 
 ## GIF DEMO
 
-<img src='https://github.com/AndyLuuuuu/TV-Movie-Search/blob/master/TVMovieSearch Demo Part 1.gif?raw=true' title='TV Movie Search' width='150' alt='TV Movie Search Demo Part 1' />
-<img src='https://github.com/AndyLuuuuu/TV-Movie-Search/blob/master/TVMovieSearch Demo Part 2.gif?raw=true' title='TV Movie Search' width='150' alt='TV Movie Search Demo Part 1' />
+### DEMO PART 1
+<img src='https://github.com/AndyLuuuuu/TV-Movie-Search/blob/master/TVMovieSearch Demo Part 1.gif?raw=true' title='TV Movie Search' width='300' alt='TV Movie Search Demo Part 1' />
+
+### DEMO PART 2
+<img src='https://github.com/AndyLuuuuu/TV-Movie-Search/blob/master/TVMovieSearch Demo Part 2.gif?raw=true' title='TV Movie Search' width='300' alt='TV Movie Search Demo Part 1' />
