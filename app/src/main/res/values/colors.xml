@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00274d</color>
+    <color name="colorPrimaryDark">#00274d</color>
+    <color name="colorAccent">#00274d</color>
+
+    <!-- Details page -->
+    <color name="detail_background">#0A0A0A</color>
+    <color name="detail_text_color">#D6D6D6</color>
+
+    <!-- Search result page -->
+    <color name="search_result_background">#CC030303</color>
+
+    <!-- Rating bar color -->
+    <color name="rating_bar_star">#FFE200</color>
+    <color name="rating_bar_background">#FA0202</color>
+</resources>

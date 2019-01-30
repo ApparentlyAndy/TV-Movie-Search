@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".ui.ViewPagerItems">
+
+    <ImageView
+            tools:src="@drawable/placeholder_poster"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/backdrop_image_view" android:scaleType="centerCrop"
+            android:contentDescription="@string/backdrop_desc"/>
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/overlay"
+            android:alpha="0.7" android:background="@android:color/background_dark"
+            android:contentDescription="@string/overlay"/>
+
+    <ImageView
+            tools:src="@drawable/placeholder_poster"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/poster_image_view"
+            android:scaleType="fitCenter" android:cropToPadding="false" android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp" android:contentDescription="@string/poster_desc"/>
+</FrameLayout>

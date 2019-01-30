@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TV Movie Search</string>
+
+    <!-- Toolbar icon strings-->
+    <string name="search_icon">Search Icon</string>
+    <string name="layout_icon">Layout Icon</string>
+
+    <!-- Navigation DrawerLayout Strings -->
+        <!-- TV -->
+    <string name="discover_tv">Discover TV Shows</string>
+    <string name="onAir_tv">TV Shows On Air</string>
+    <string name="popular_tv">Popular TV Shows</string>
+    <string name="topRated_tv">Top Rated TV Shows</string>
+
+
+        <!-- Movies -->
+    <string name="discover_movies">Discover Movies</string>
+    <string name="onAir_movies">Now Playing Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="topRated_movies">Top Rated Movies</string>
+
+
+    <!-- Layout Sub-menu -->
+    <string name="one_column_label">One-column Layout</string>
+    <string name="two_column_label">Two-column Layout</string>
+
+    <string name="backdrop_desc">Backdrop</string>
+    <string name="overlay">Overlay</string>
+    <string name="poster_desc">Poster</string>
+    <string name="vote_count_label">Vote count:</string>
+    <string name="vote_average_label">Vote average:</string>
+    <string name="original_lang_label">Original Language:</string>
+    <string name="vote_count_star">Vote Stars</string>
+
+    <!-- Search view-->
+    <string name="search_view">Search View</string>
+    <string name="search_view_hint">Enter TV Show/Movie name...</string>
+
+    <!-- Search filter -->
+    <string name="filter_movies">Movies</string>
+    <string name="filter_tv">TV Shows</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous_button">Previous Page</string>
+    <string name="next_button">Next Page</string>
+    <string name="movies_title">Movies</string>
+    <string name="tv_title">TV</string>
+</resources>

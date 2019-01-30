@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="VoteRatingBar" parent="Widget.AppCompat.RatingBar.Indicator">
+        <item name="colorAccent">#fff</item>
+        <item name="colorControlActivated">@color/rating_bar_star</item>
+        <item name="colorControlNormal">@color/rating_bar_star</item>
+    </style>
+
+    <style name="SearchView" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlActivated">#FFFFFF</item>
+        <item name="android:editTextColor">#FFFFFF</item>
+        <item name="android:textColorHint">#7A7A7A</item>
+        <item name="android:textColorSecondary">#7A7A7A</item>
+        <item name="editTextColor">#FFFFFF</item>
+    </style>
+
+</resources>

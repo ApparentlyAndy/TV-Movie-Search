@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_layout_change"
+    android:icon="@drawable/ic_filter_list_black"
+    android:title="@string/layout_icon"
+          android:orderInCategory="200"
+          app:showAsAction="ifRoom"
+    >
+        <menu>
+            <item  android:id="@+id/filter_movies" android:title="@string/filter_movies" android:checkable="true" android:checked="true"/>
+            <item android:id="@+id/filter_tv" android:title="@string/filter_tv" android:checkable="true" android:checked="true"/>
+        </menu>
+    </item>
+</menu>
