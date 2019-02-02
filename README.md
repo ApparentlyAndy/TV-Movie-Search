@@ -10,6 +10,21 @@ However, most of the coding was done within the last 3-5 days.
 This mobile application uses "The MovieDB" api to fetch information about TV Shows and Movies. <br/>
 Link: https://www.themoviedb.org
 
+## Instructions to use
+
+1. Sign up to https://www.themoviedb.org and request an API key.
+2. Download project.
+3. Inside of "model" folder, create a new Kotlin class file named "ApiKey".
+4. Inside of "ApiKey.kt" file, copy and paste the code below
+    ```Kotlin
+    class ApiKey {
+    companion object {
+        val apiKey:String = "YOUR API KEY"
+      }
+    }
+    ```
+5. Run project.
+
 ## GIF DEMO
 
 ### DEMO PART 1
